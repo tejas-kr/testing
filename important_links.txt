@@ -29,3 +29,6 @@ https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithm
 
 what do you mean by smooth function
 https://www.quora.com/What-is-a-smooth-function-And-why-is-it-important
+
+machine learning cheatsheet
+http://ml-cheatsheet.readthedocs.io/en/latest/index.html
